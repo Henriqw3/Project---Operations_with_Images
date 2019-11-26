@@ -1,6 +1,5 @@
 # Project - Operations_with_Images
-
-Projeto Final de Estrutura de Dados
+Trabalho Final de Estrutura de Dados
 
 Funcionalidades:
 - Abre uma imagem e mostra os valores dos pixels na tela;
